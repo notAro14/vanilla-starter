@@ -1,3 +1,3 @@
 # Vanilla starter
 
-HTML, CSS and JS vanilla starter
+HTML, CSS and vanilla Javascript starter
