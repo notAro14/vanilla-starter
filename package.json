@@ -1,0 +1,21 @@
+{
+  "name": "vanilla-starter",
+  "version": "1.0.0",
+  "description": "HTML, CSS and JS vanilla starter",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel serve --port 4000 index.html"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "starter"
+  ],
+  "author": "Aro Andriamaro",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1"
+  }
+}
