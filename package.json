@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "HTML, CSS and JS vanilla starter",
   "private": "true",
+  "homepage": "https://notAro14.github.io/vanilla-starter",
   "scripts": {
     "build": "snowpack build",
     "deploy": "gh-pages -d dist",
